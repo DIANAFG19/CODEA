@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>net.nanis</groupId>
-	<artifactId>CODEA-Adm</artifactId>
+	<artifactId>CODEA</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>CODEA-Adm</name>
+	<name>CODEA</name>
 	<description>Programa que realiza la administración de licencias (usuarios) y mantenimiento del programa CODEA-Usr.</description>
 
 	<properties>
